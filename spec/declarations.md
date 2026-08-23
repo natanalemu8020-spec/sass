@@ -1,7 +1,7 @@
 ## Declarations
 
 ## Table of Contents
-## weyne
+## weyne belachew
 
 
 * [Syntax](#syntax)
